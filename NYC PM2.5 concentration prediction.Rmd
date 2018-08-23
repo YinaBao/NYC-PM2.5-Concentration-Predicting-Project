@@ -1,7 +1,4 @@
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 #Predicting PM2.5 Concentration in NYC from Measured Components
 
 
